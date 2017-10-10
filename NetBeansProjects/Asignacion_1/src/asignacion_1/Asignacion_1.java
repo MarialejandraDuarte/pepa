@@ -11,7 +11,7 @@ public class Asignacion_1 {
         x.add(new Integer(3));
         doStuff(x);
         int c = 0;
-        
+        int g= 8;
 
         try {
             for (Integer i : x) {
